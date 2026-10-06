@@ -1,0 +1,6 @@
+@EmailRateLimiting_HostAddress = http://localhost:5160
+
+GET {{EmailRateLimiting_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

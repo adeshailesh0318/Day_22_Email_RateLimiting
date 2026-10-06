@@ -1,0 +1,6 @@
+﻿namespace EmailRateLimiting.Attachments
+{
+    public class sample
+    {
+    }
+}
